@@ -12,7 +12,7 @@ int main() {
     child1 = fork(); 
 
     if (child1 == 0) {
-        // First spawned process displays its ID
+        
         cout << "First child executing (PID: " << getpid() << ")" << endl;
         cout << "First child process exiting..." << endl;
         exit(0);
@@ -21,7 +21,7 @@ int main() {
     child2 = fork();  
 
     if (child2 == 0) {
-        // Second spawned process displays its ID
+        
         cout << "Second child executing (PID: " << getpid() << ")" << endl;
         cout << "Second child process exiting..." << endl;
         exit(0);
