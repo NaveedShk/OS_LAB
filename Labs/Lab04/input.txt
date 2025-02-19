@@ -1,0 +1,3 @@
+Greetings 
+this is a input text file for task 04 
+thanks 
