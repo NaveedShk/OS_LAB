@@ -1,0 +1,6 @@
+This is
+input file
+
+Initial content of the file.
+Processed by child process
+Processed by child process
