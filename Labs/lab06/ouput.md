@@ -7,3 +7,7 @@ TASK 06_B producer ouput:
 TASK 06_B consumer output:
 ![image](https://github.com/user-attachments/assets/0505f674-e23e-4053-bbca-ca9d9aba856f)
 
+TASK 06_c output:
+![image](https://github.com/user-attachments/assets/4208ce82-740c-4bf5-ad78-23772dc76782)
+
+
